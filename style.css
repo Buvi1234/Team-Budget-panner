@@ -1,0 +1,19 @@
+body {
+    color: #fff;
+    background: blueviolet;
+    font: 1em "Times new Roman";
+    text-align: center;
+    margin: 200px ;
+    padding-bottom: 100px;
+
+  }
+h1{
+    color:burlywood;
+}
+.addDet, .checkDet{
+  background-color: rgb(109, 80, 146);
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  padding: 15px;
+}
